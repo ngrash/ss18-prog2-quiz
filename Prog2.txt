@@ -62,7 +62,7 @@ Klassenvariable können serialisiert werden.	Falsch
 Die Kollektions-Klassen List, Set, Stack sind im package java.util.	Wahr
 Die Klasse Thread ist im package java.lang, wird also automatisch importiert.	Wahr
 Runnable ist ein Interface.	Wahr
-Lokale Klassen können auf der äußeren Ebene einer anderen Klasse definiert werden.	Wahr - auch: wtf
+Lokale Klassen können auf der äußeren Ebene einer anderen Klasse definiert werden.	Falsch
 Lokale Klassen können innerhalb von Methoden einer Klasse definiert werden.	Wahr
 Eine lokale Klasse kann den Modifikator static bekommen.	Falsch
 Objekte der Klasse String können verändert werden.	Falsch
@@ -91,7 +91,7 @@ Alle Klassen des Pakets java.lang können mit unqualifizierten Namen verwendet w
 Im Unterschied zu Modifikatoren können Annotationen vom Programmierer selbst definiert werden.	Wahr
 Die Attribute einer Annotation müssen vom Typ String sein	Falsch
 Eine binäre Semaphore kann nur die Werte −1 und +1 annehmen.	Falsch - 0/1
-Unter einer Transaktion versteht man eine Aktion, die niemals vollständig zu Ende ausgeführt werden darf.	Wahr
+Unter einer Transaktion versteht man eine Aktion, die niemals vollständig zu Ende ausgeführt werden darf.	Falsch
 Jede Java-Klasse besitzt einen Namen.	Falsch
 Ein Applet muss eine main-Methode enthalten.	Falsch
 Das Paket java.util wird automatisch importiert.	Falsch
