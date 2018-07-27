@@ -86,3 +86,22 @@ Die Klasse String kann durch extends erweitert werden.	Falsch
 Mit Methode der Klasse StringTokenizer können Objekte der Klasse String in Teile zerlegt werden.	Wahr
 @Deprecated ist eine vordefinierte Annotation.	Wahr
 Lokale Variable können nicht annotiert werden.	Falsch
+Durch eine statische Import-Anweisung können Konstanten aus Schnittstellen importiert werden.	Wahr
+Alle Klassen des Pakets java.lang können mit unqualifizierten Namen verwendet werden.	Wahr
+Im Unterschied zu Modifikatoren können Annotationen vom Programmierer selbst definiert werden.	Wahr
+Die Attribute einer Annotation müssen vom Typ String sein	Falsch
+Eine binäre Semaphore kann nur die Werte −1 und +1 annehmen.	Falsch - 0/1
+Unter einer Transaktion versteht man eine Aktion, die niemals vollständig zu Ende ausgeführt werden darf.	Wahr
+Jede Java-Klasse besitzt einen Namen.	Falsch
+Ein Applet muss eine main-Methode enthalten.	Falsch
+Das Paket java.util wird automatisch importiert.	Falsch
+Der Algorithmus von Dekker löst das Problem des wechselseitigen Ausschlusses durch aktives Warten.	Wahr
+Zur Synchronisation von Threads stellt Java des Konzept des Monitors bereit.	Wahr
+Jede Klasse muss in einer eigenen Datei stehen	Falsch
+Das Paket java.lang wird automatisch importiert.	Wahr
+Wenn bei einem Hash-Verfahren eine Kollision auftritt, wird das Programm beendet.	Falsch
+Ein Thread kann mit der Methode run() gestartet werden.	Falsch
+Eine Swing Adapter-Klasse realisiert die Methoden einer Schnittstelle durch leere Rümpfe.	Wahr
+Jedes Ereignis kann von höchstens einem Beobachter (Listener) wahrgenommen werden.	Falsch
+Widgets dürfen nur in Applets benutzt werden.	Falsch
+Werte von Enum-Klassen können als Marken in Switch-Anweisungen verwendet werden.	Wahr
