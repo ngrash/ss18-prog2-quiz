@@ -1,0 +1,88 @@
+Die Werte einer Enum-Klasse werden mit der Methode compareTo alphabetisch verglichen.	Falsch
+Enum-Werte können mit equals auf Gleichheit getestet werden.	Wahr
+Die Werte einer Enum-Klasse können nicht als Marken in switch-Anweisungen verwendet werden.	Falsch
+Keine Annotation kann zur Laufzeit ausgewertet werden.	Falsch
+Lokale Variablen können nicht annotiert werden.	Falsch
+Annotationen können selbst definiert werden.	Wahr
+Die Klasse String ist final.	Wahr
+Mit StringTokenizer können Strings in mehrere Teile zerlegt werden.	Wahr
+In Objekte der Klasse StringBuffer können Zeichen eingefügt und gelöscht werden.	Wahr
+Um Methoden der Klasse Math zu verwenden, müssen sie importiert werden.	Falsch
+Mit dem statischen Import können auch Konstanten importiert werden.	Wahr
+Eine Klasse kann zwei packages zugeordnet sein.	Falsch
+Ein Thread wird mit der Methode run gestartet.	Falsch
+Die Methoden notify und notifyAll befinden sich in der Klasse Object.	Wahr
+Um einen Thread in einer Klasse zu erzeugen, muss extends Thread verwendet werden.	Falsch
+Eine innere Klasse kann nicht auf die Membervariablen der äußeren Klasse zugreifen.	Falsch
+Jede Enum-Klasse implementiert die Schnittstelle Comparable.	Wahr
+Jede Klasse gehört zu genau einem Paket.	Wahr
+Klassen des Defaults-Pakets können ohne eine explizite import-Anweisung verwendet werden.	Falsch
+Annotationen beginnen mit dem Zeichen @.	Wahr
+Annotationen können annotiert werden.	Falsch - Außer es sind Annotations-Klassen gemeint, dann Wahr.
+Eine Semaphore kann nur Werte annehmen, die größer als 0 sind.	Falsch
+Eine innere Klasse kann auf die Member-Variablen ihrer äußeren Klasse zugreifen.	Wahr
+Anonyme Klassen können nicht instanziiert werden.	Falsch
+Annotationen sind vordefiniert und können nicht selbst erstellt werden.	Falsch
+Die Klassen des Pakets java.util werden automatisch importiert.	Falsch
+Eine durch protected deklarierte Variable ist in allen Methoden des eigenen Pakets sichtbar.	Wahr
+Eine Semaphore kann nur Werte annehmen, die ≥ 1 sind.	Falsch
+Innerhalb einer Klasse dürfen weitere Klassen definiert werden.	Wahr
+Die Werte von Enum-Klassen dürfen nicht als Marken in switch-Anweisungen verwendet werden.	Falsch
+Als Programmierer kann man eigene packages erstellen.	Wahr
+Alle Annotationen können nicht zur Laufzeit ausgewertet werden.	Falsch
+Eigene Annotationen dürfen keine Attribute besitzen.	Falsch
+wait und notify sind Methoden der Klasse Object und nicht der Klasse Thread.	Wahr
+Lokale Klassen dürfen auch innerhalb von Methoden definiert werden.	Wahr
+Lokale Klassen dürfen auch den Modifikator static erhalten.	Falsch
+Alle Enum-Klassen implementieren das Interface Comparable.	Wahr
+Klassen können in mehrere packages eingeordnet werden.	Falsch
+Annotationen können nicht annotiert werden.	Wahr - Außer es sind Annotations-Klassen gemeint, dann Falsch.
+Parallelität, Threads: Runnable ist kein Interface.	Falsch
+Alle Enum-Klassen implementieren die Schnittstelle Comparable.	Wahr
+Enum-Klassen können als Marken in switch-Anweisungen verwendet werden.	Wahr
+Enum-Klassen besitzen sogenannte Konstruktoren.	Wahr
+Die Klassen des packages java.math werden automatisch importiert.	Falsch
+Die Klassen des packages java.lang werden automatisch importiert.	Wahr
+Die Klassen des packages java.util werden automatisch importiert.	Falsch
+Parameter können annotiert werden.	Wahr
+Lokale Variable können annotiert werden.	Falsch
+Klassenvariable werden nicht serialisiert.	Wahr
+Der Modifikator transient serialisiert Instanzvariable.	Falsch
+Die Funktionsweise von queue nennt man FIFO.	Wahr
+Die Funktionsweise von stack nennt man FIFO.	Falsch - LIFO
+Die Klasse Object enthält die Methoden notify() und notifyAll().	Wahr
+Die Klasse Object enthält drei wait-Methoden.	Wahr
+Im Definitionsbereich einer Klasse können weitere Klassen definiert werden.	Wahr
+Alle Klassen müssen einen Namen bekommen.	Falsch
+Für jeden primitiven Datentyp existiert eine Wrapper-Klasse.	Wahr
+Jede Wrapper-Klasse die existiert, hat den gleichen Namen wie ihr primitiver Datentyp, er beginnt aber nur mit dem Großbuchstaben.	Falsch
+Der Wert eines Wrapper-Objektes kann verändert werden.	Falsch
+Die Serialisierung wandelt Objekte in Formate zur Speicherung in Dateien oder zur Übertragung zwischen Progamm(teil)en um.	Wahr
+Klassenvariable können serialisiert werden.	Falsch
+Die Kollektions-Klassen List, Set, Stack sind im package java.util.	Wahr
+Die Klasse Thread ist im package java.lang, wird also automatisch importiert.	Wahr
+Runnable ist ein Interface.	Wahr
+Lokale Klassen können auf der äußeren Ebene einer anderen Klasse definiert werden.	Wahr - auch: wtf
+Lokale Klassen können innerhalb von Methoden einer Klasse definiert werden.	Wahr
+Eine lokale Klasse kann den Modifikator static bekommen.	Falsch
+Objekte der Klasse String können verändert werden.	Falsch
+Objekte der Klasse StringBuffer können verändert werden.	Wahr
+Die Klassen vom package java.lang werden automatisch importiert.	Wahr
+Eigene Klassen können zwei packages zugeordnet werden.	Falsch
+Wenn man die Methoden der Klasse Math verwenden will, muss man den Modifikator import verwenden.	Falsch
+Das package java.util wird automatisch importiert.	Falsch
+Von Enum-Klassen können mit Konstruktoren Objekte erzeugt werden.	Falsch
+Objekte von Enum-Klassen können als Marken in switch-Anweisungen verwendet werden.	Wahr
+Enum-Objekte können mit equals auf Gleichheit getestet werden.	Wahr
+Die Methode notify befindet sich in der Klasse Object.	Wahr
+Von anonymen Klassen kann nur ein Objekt erzeugt werden.	Wahr
+Anonyme Klassen können innerhalb eines new-Operators definiert werden.	Wahr
+Lokale Klassen können den Modifikator static bekommen.	Falsch
+Eine lokale Klasse kann auf die Membervariablen der Klasse zugreifen, in der sie definiert wurde.	Wahr
+Eine Klasse kann auf Membervariablen ihrer lokalen Klassen zugreifen.	Wahr
+Die Werte (nicht Attribute) von Enum-Klassen können geändert werden.	Falsch
+Enum-Klassen besitzen ohne eigene Definition eine toString-Methode.	Wahr
+Die Klasse String kann durch extends erweitert werden.	Falsch
+Mit Methode der Klasse StringTokenizer können Objekte der Klasse String in Teile zerlegt werden.	Wahr
+@Deprecated ist eine vordefinierte Annotation.	Wahr
+Lokale Variable können nicht annotiert werden.	Falsch
