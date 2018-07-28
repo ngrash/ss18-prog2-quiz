@@ -45,7 +45,7 @@ Die Klassen des packages java.math werden automatisch importiert.	Falsch
 Die Klassen des packages java.lang werden automatisch importiert.	Wahr
 Die Klassen des packages java.util werden automatisch importiert.	Falsch
 Parameter können annotiert werden.	Wahr
-Lokale Variable können annotiert werden.	Falsch
+Lokale Variable können annotiert werden.	Wahr
 Klassenvariable werden nicht serialisiert.	Wahr
 Der Modifikator transient serialisiert Instanzvariable.	Falsch
 Die Funktionsweise von queue nennt man FIFO.	Wahr
