@@ -33,7 +33,7 @@ Alle Annotationen können nicht zur Laufzeit ausgewertet werden.	Falsch
 Eigene Annotationen dürfen keine Attribute besitzen.	Falsch
 wait und notify sind Methoden der Klasse Object und nicht der Klasse Thread.	Wahr
 Lokale Klassen dürfen auch innerhalb von Methoden definiert werden.	Wahr
-Lokale Klassen dürfen auch den Modifikator static erhalten.	Falsch
+Lokale Klassen dürfen auch den Modifikator static erhalten.	Wahr
 Alle Enum-Klassen implementieren das Interface Comparable.	Wahr
 Klassen können in mehrere packages eingeordnet werden.	Falsch
 Annotationen können nicht annotiert werden.	Wahr - Außer es sind Annotations-Klassen gemeint, dann Falsch.
