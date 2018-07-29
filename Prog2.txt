@@ -62,7 +62,7 @@ Klassenvariable können serialisiert werden.	Falsch
 Die Kollektions-Klassen List, Set, Stack sind im package java.util.	Wahr
 Die Klasse Thread ist im package java.lang, wird also automatisch importiert.	Wahr
 Runnable ist ein Interface.	Wahr
-Lokale Klassen können auf der äußeren Ebene einer anderen Klasse definiert werden.	Falsch
+Lokale Klassen können auf der äußeren Ebene einer anderen Klasse definiert werden.	Wahr
 Lokale Klassen können innerhalb von Methoden einer Klasse definiert werden.	Wahr
 Eine lokale Klasse kann den Modifikator static bekommen.	Falsch
 Objekte der Klasse String können verändert werden.	Falsch
