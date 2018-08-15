@@ -39,7 +39,7 @@ Klassen können in mehrere packages eingeordnet werden.	Falsch
 Annotationen können nicht annotiert werden.	Wahr - Außer es sind Annotations-Klassen gemeint, dann Falsch.
 Parallelität, Threads: Runnable ist kein Interface.	Falsch
 Alle Enum-Klassen implementieren die Schnittstelle Comparable.	Wahr
-Enum-Klassen können als Marken in switch-Anweisungen verwendet werden.	Wahr
+Enum-Klassen können als Marken in switch-Anweisungen verwendet werden.	Falsch
 Enum-Klassen besitzen sogenannte Konstruktoren.	Wahr
 Die Klassen des packages java.math werden automatisch importiert.	Falsch
 Die Klassen des packages java.lang werden automatisch importiert.	Wahr
