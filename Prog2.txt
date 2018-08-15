@@ -33,7 +33,7 @@ Alle Annotationen können nicht zur Laufzeit ausgewertet werden.	Falsch
 Eigene Annotationen dürfen keine Attribute besitzen.	Falsch
 wait und notify sind Methoden der Klasse Object und nicht der Klasse Thread.	Wahr
 Lokale Klassen dürfen auch innerhalb von Methoden definiert werden.	Wahr
-Lokale Klassen dürfen auch den Modifikator static erhalten.	Falsch
+Lokale Klassen dürfen auch den Modifikator static erhalten.	Wahr
 Alle Enum-Klassen implementieren das Interface Comparable.	Wahr
 Klassen können in mehrere packages eingeordnet werden.	Falsch
 Annotationen können nicht annotiert werden.	Wahr - Außer es sind Annotations-Klassen gemeint, dann Falsch.
@@ -45,7 +45,7 @@ Die Klassen des packages java.math werden automatisch importiert.	Falsch
 Die Klassen des packages java.lang werden automatisch importiert.	Wahr
 Die Klassen des packages java.util werden automatisch importiert.	Falsch
 Parameter können annotiert werden.	Wahr
-Lokale Variable können annotiert werden.	Falsch
+Lokale Variable können annotiert werden.	Wahr
 Klassenvariable werden nicht serialisiert.	Wahr
 Der Modifikator transient serialisiert Instanzvariable.	Falsch
 Die Funktionsweise von queue nennt man FIFO.	Wahr
@@ -62,7 +62,7 @@ Klassenvariable können serialisiert werden.	Falsch
 Die Kollektions-Klassen List, Set, Stack sind im package java.util.	Wahr
 Die Klasse Thread ist im package java.lang, wird also automatisch importiert.	Wahr
 Runnable ist ein Interface.	Wahr
-Lokale Klassen können auf der äußeren Ebene einer anderen Klasse definiert werden.	Falsch
+Lokale Klassen können auf der äußeren Ebene einer anderen Klasse definiert werden.	Wahr
 Lokale Klassen können innerhalb von Methoden einer Klasse definiert werden.	Wahr
 Eine lokale Klasse kann den Modifikator static bekommen.	Falsch
 Objekte der Klasse String können verändert werden.	Falsch
